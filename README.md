@@ -1,6 +1,6 @@
 # DSA and Competitive Programming
 
-My solutions and practice code from college courses, TechSoc sessions and online contests. Mostly C++, with a little C and Python. I'm adding older files in batches, renaming each one after the problem it solves.
+My solutions and practice code from college courses, TechSoc sessions and online contests. Mostly C++, with a little C and Python. Older files were renamed after the problem they solve.
 
 Every file starts with a short header: the problem name, a link when there is one, and the main idea.
 
@@ -8,14 +8,16 @@ Every file starts with a short header: the problem name, a link when there is on
 
 | Folder | What's in it |
 |---|---|
-| [`data-structures/`](data-structures) | linked list, stack, queue, deque, binary search tree, tree traversal |
-| [`algorithms/`](algorithms) | searching and sorting |
-| [`basics/`](basics) | first-year exercises: GCD, Fibonacci, digit counting |
-| [`operating-systems/`](operating-systems) | CPU scheduling, page replacement, Banker's algorithm, producer-consumer |
+| [`codeforces/`](codeforces) | contest problems, named `<contest><index>_<problem name>` |
 | [`cses/`](cses) | [CSES Problem Set](https://cses.fi/problemset/), named `<task id>_<problem name>` |
 | [`atcoder/`](atcoder) | AtCoder Beginner Contest problems, by contest |
-
-Coming next: Codeforces and CodeChef contest solutions, and the C programs from my first-year lab.
+| [`data-structures/`](data-structures) | linked list, stack, queue, deque, binary search tree, tree traversal |
+| [`algorithms/`](algorithms) | searching and sorting |
+| [`operating-systems/`](operating-systems) | CPU scheduling, page replacement, Banker's algorithm, producer-consumer |
+| [`oop-cpp/`](oop-cpp) | inheritance, virtual functions, operator overloading, constructors |
+| [`basics/`](basics) | small C++ exercises |
+| [`c-lab/`](c-lab) | first-year C lab programs |
+| [`learning-notes/`](learning-notes) | my notes from TechSoc's C and C++ classes, mostly commented-out snippets per topic |
 
 ## Running a solution
 
