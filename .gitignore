@@ -1,0 +1,9 @@
+.DS_Store
+*.o
+*.out
+*.exe
+*.dSYM/
+sol
+a.out
+.vscode/
+__pycache__/
